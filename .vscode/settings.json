@@ -1,0 +1,11 @@
+{
+	"gopls": {
+		"gopls.env": {
+			"GOFLAGS": "-tags=test"
+		},
+		"build.buildFlags": [
+			// "xmain",
+			// "ymain"
+		]
+	}
+}
